@@ -39,7 +39,7 @@ $ php artisan crudbooster:install
 ```
 
 ## Update
-Do not update your project directly, please making a backup before updating the CRUDBooster.
+Do not update your project directly, please make a backup before updating the CRUDBooster.
 - Open the terminal, navigate to your project directory.
 ```php
 $ composer require crocodicstudio/crudbooster=^5.5
